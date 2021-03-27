@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+div.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-size: 100px;
+  font-weight: bolder;
+  padding: 10%;
+  border: 10px solid white;
+}
